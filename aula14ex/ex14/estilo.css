@@ -19,6 +19,8 @@ input {
     padding: 5px;
     text-align: justify;
     margin: auto;
+    background-color: #FFBA12;
+    color: #00268F;
 }
 footer {
     color: white;
