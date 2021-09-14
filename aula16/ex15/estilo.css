@@ -17,11 +17,22 @@ section {
 }
 input {
     font-family: 'Courier New', Courier, monospace;
+    padding: 8px;
+    background-color: #FFBA12;
+    color: #00268F;
+    font-size: 1em;
+    margin: 2px;
+}
+select {
+    padding: 8px;
+    background-color: #FFBA12;
+    color: #00268F;
+    font-size: 1em;
+    margin: auto;
 }
 select#flista {
-    width: 220px;
+    width: 255px;
     padding: 10px;
-    margin: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
 footer {
